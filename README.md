@@ -1,7 +1,7 @@
-![logo]()
+![logo](https://github.com/Bunty1234567890/Bunty1234567890/blob/main/Data-Science-For-Business-Benefits-And-Use-Cases-820-%C3%97-312-px-2.png)
 
 <h1 align="center">Hi 👋, I'm SAGAR KUMAR OJHA</h1>
-<h3 align="center">I Embarking on a Journey in Data Science and Data Analyst</h3>
+<h3 align="center">I Embarking on a Journey in Data Scientist and Data Analyst</h3>
 <img align = "right" alt="Coding" width="400" src="https://github.com/Bunty1234567890/Bunty1234567890/assets/125241597/dc067d04-12bf-4a2f-abcb-be7cc55d32fe">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bunty1234567890&label=Profile%20views&color=0e75b6&style=flat" alt="bunty1234567890" /> </p>
