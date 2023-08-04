@@ -1,3 +1,5 @@
+![logo]()
+
 <h1 align="center">Hi 👋, I'm SAGAR KUMAR OJHA</h1>
 <h3 align="center">I Embarking on a Journey in Data Science and Data Analyst</h3>
 <img align = "right" alt="Coding" width="400" src="https://github.com/Bunty1234567890/Bunty1234567890/assets/125241597/dc067d04-12bf-4a2f-abcb-be7cc55d32fe">
