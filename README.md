@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SAGAR KUMAR OJHA</h1>
 <h3 align="center">I Embarking on a Journey in Data Science</h3>
 
-<img align = "right" alt="Coding" width="400" src="https://github.com/Bunty1234567890/Bunty1234567890/assets/125241597/dc4bd92f-284e-482d-b34b-57367382adba" >
+<img align = "right" alt="Coding" width="300" src="https://github.com/Bunty1234567890/Bunty1234567890/assets/125241597/dc4bd92f-284e-482d-b34b-57367382adba" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bunty1234567890&label=Profile%20views&color=0e75b6&style=flat" alt="bunty1234567890" /> </p>
 
