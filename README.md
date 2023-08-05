@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm SAGAR KUMAR OJHA</h1>
 <h3 align="center">I Embarking on a Journey in Data Scientist and Data Analyst</h3>
+<h3 align="center">Embark on an exhilarating journey in Data Science and Data Analysis with my rich 2-year experience! Together, we'll unravel the mysteries of predictive modeling, conquer the realms of image and video processing, and craft cutting-edge recommender systems. Let's dive into a world of innovation, where data-driven wonders await your command! 🔍🚀📊.</h3>
 <img align = "right" alt="Coding" width="400" src="https://github.com/Bunty1234567890/Bunty1234567890/assets/125241597/dc067d04-12bf-4a2f-abcb-be7cc55d32fe">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bunty1234567890&label=Profile%20views&color=0e75b6&style=flat" alt="bunty1234567890" /> </p>
